@@ -1,63 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<style>
-    body {
-        font-family: "Times New Roman", Times, serif;
-        margin: 0;
-        padding: 0;
-        background-color: #F5F2E8; /* Warm beige background */
-        color: #2D3E2D; /* Dark sage green text */
-        margin-bottom: 114px;
-        font-size: 2.5em;
-    }
-    header {
-        background-color: #87A96B; /* Sage green */
-        color: #F5F2E8; /* Light beige */
-        padding: 4em;
-        text-align: center;
-    }
-    h1 {
-        margin: 0;
-        font-size: 7em;
-    }
-    .container {
-        width: 90%;
-        max-width: 1000px;
-        margin: 2em auto;
-        padding: 2em;
-        background-color: #FEFCF7; /* Creamy white-beige */
-        border: 1px solid #C4C9B8; /* Muted sage border */
-        border-radius: 8px;
-        text-align: center;
-    }
-    footer {
-        text-align: center;
-        padding: 1em;
-        background-color: #87A96B; /* Sage green */
-        color: #F5F2E8; /* Light beige */
-        position: fixed;
-        width: 100%;
-        bottom: 0;
-    }
-    p {
-        font-size: 1.2em;
-    }
-    a {
-        color: #6B8E4A; /* Darker sage green for links */
-    }
-    a:hover {
-        font-style: italic;
-        color: #5A7A3C; /* Even darker sage on hover */
-    }
-    @media screen and (min-width: 39.688rem) {
-        .container {
-            position: absolute;
-            top: 65%;
-            left: 50%;
-            transform: translate(-50%, -60%);
-        }
-    }
-</style>
+
 <body>
     <header>
         <h1>LJ CONNOLLY</h1>
@@ -83,7 +26,7 @@
         </section>
     </div>
     <footer>
-        <p>Last updated August 19, 2025&ensp;|&ensp;<a href="https://chdr.cah.ucf.edu/about.html">Back to CHDR</a></p>
+        <p>Last updated September 5, 2025&ensp;|&ensp;<a href="https://chdr.cah.ucf.edu/about.html">Back to CHDR</a></p>
     </footer>
 </body>
 </html>
